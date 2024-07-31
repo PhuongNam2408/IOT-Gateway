@@ -20,3 +20,4 @@ bitbake/lib/toaster/contrib/tts/backlog.txt
 bitbake/lib/toaster/contrib/tts/log/*
 bitbake/lib/toaster/contrib/tts/.cache/*
 bitbake/lib/bb/tests/runqueue-tests/bitbake-cookerdaemon.log
+meta-yocto-bsp
