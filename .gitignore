@@ -25,3 +25,8 @@ bitbake/lib/bb/tests/runqueue-tests/bitbake-cookerdaemon.log
 /rpi-build/cache
 /rpi-build/bitbake-cookerdaemon.log
 raspberry_pi_sources_yocto
+.vscode
+/meta-skeleton
+/meta-selftest
+/meta-npn-network
+
